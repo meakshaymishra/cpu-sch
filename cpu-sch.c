@@ -62,11 +62,11 @@ int main(){
     }
     else if (choice==3)
     {
-        printf("\n\n\nYou have selected FCFS.");
+        printf("\n\n\nYou have selected SRTF.");
     }
     else if (choice==4)
     {
-        printf("\n\n\nYou have selected FCFS.");
+        printf("\n\n\nYou have selected RR.");
     }
     else
     {
