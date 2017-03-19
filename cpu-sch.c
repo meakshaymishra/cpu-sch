@@ -40,7 +40,7 @@ int main(){
         printf("\n\n\nYou have selected non-Preemptive.");
     }
     else {
-        printf("\n\n\n\Invalid Entry...");
+        printf("\n\n\nInvalid Entry...");
     }
     choice=0;
 
